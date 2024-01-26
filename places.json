@@ -1,0 +1,18 @@
+[
+  {
+    "loc": "Location A",
+    "lat": 40.7128,
+    "lon": -74.0060,
+    "hdg_from": 0,
+    "hdg_to": 90,
+    "elev": 10
+  },
+  {
+    "loc": "Location B",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "hdg_from": 180,
+    "hdg_to": 270,
+    "elev": 50
+  }
+]
